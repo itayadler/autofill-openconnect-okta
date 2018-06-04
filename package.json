@@ -1,0 +1,26 @@
+{
+  "name": "autofill-openconnect-okta",
+  "version": "1.0.0",
+  "description": "Autofill's openconnect okta password & 2FA code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itayadler/autofill-openconnect-okta.git"
+  },
+  "keywords": [
+    "openconnect",
+    "okta"
+  ],
+  "author": "@itayad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itayadler/autofill-openconnect-okta/issues"
+  },
+  "homepage": "https://github.com/itayadler/autofill-openconnect-okta#readme",
+  "dependencies": {
+    "ws": "5.2.0"
+  }
+}
